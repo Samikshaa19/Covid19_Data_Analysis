@@ -1,6 +1,6 @@
 # Covid19_Data_Analysis_Using_Python
 
-Objectives of this project:
+**Objectives of this project:**
 1. Steps needed to be taken to prepare your data sources for an analysis
 2. How to look at your data to find a good measure to establish your analysis based upon
 3. To visualize the result of your analysis
@@ -10,7 +10,7 @@ Dataset used for Analysis is published by John Hopkins University, which consist
 Also we have another dataset consist of various life factors, scored by the people living in each country around the globe.
 We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
-#Project Structure
+**Project Structure**
 The project on COVID19 Data Analysis using Python is divided into following tasks:
 
 Task 1: Introduction
